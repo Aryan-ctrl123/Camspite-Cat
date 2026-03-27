@@ -13,4 +13,4 @@ Running Jump - Space + Right/Left arrow key
 ## End :
 Once the score reaches 30 the cat will fall asleep and you will succesfully finish the game.
 ## Music Credits :
-https://cdn.freesound.org/sounds/814/814893-af28f6c3-4d26-4fe5-8344-7803f203ecb7?filename=814893__sadiquecat__mature-female-cat-pearl-meow.wav(John Queso)
+https://cdn.freesound.org/sounds/814/814893-af28f6c3-4d26-4fe5-8344-7803f203ecb7?filename=814893__sadiquecat__mature-female-cat-pearl-meow.wav (John Queso)
