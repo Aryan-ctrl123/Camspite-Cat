@@ -5,10 +5,10 @@ A soothing,cozy cat game that features a cat moving in a cozy campfire environme
 Every 4 second a cookie will spawn in a reachable zone for the cat, you have to obtain these cookies by jumping,running or even walking. Each time the cat gets a cookies, it will meow and the score will be updated. The score is shown on the top left corner, and you must reach 30 to succesfully end the game.
 
 ## Controls:
-Walking - Right arrow or Left arrow key.
-Running-  Shift + Right/Left arrow key
-Jumping - Space 
-Running Jump - Space + Right/Left arrow key
+1) Walking - Right arrow or Left arrow key.
+2) Running-  Shift + Right/Left arrow key
+3) Jumping - Space 
+4) Running Jump - Space + Right/Left arrow key
 
 ## End :
 Once the score reaches 30 the cat will fall asleep and you will succesfully finish the game.
